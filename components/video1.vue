@@ -19,7 +19,7 @@ export default {
         autoplay: false,
         isLoop: false,
         poster:
-          'https://images.mux.com/GvgMD02G02mv0200fDiP71cLF9RrbRlEq8V9/thumbnail.png',
+          'https://tom.imgix.net/zeek_tmnt.jpg?w=400&auto=format,compress',
         playsinline: true,
         title: 'will add',
         controls: 'progress,current,volume'
